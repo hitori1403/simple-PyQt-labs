@@ -1,2 +1,2 @@
-# pyqt_labs
+# pyqt-labs
 Simple PyQt6 labs
